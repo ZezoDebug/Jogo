@@ -181,5 +181,5 @@ class Node:
 ### Informações Acadêmicas
 - **Universidade:** UNIMAR - Universidade de Marília :school:
 - **Curso:** Analise e Desenvolvimento de Sistemas :mortar_board:
-- **Disciplina:** Sistemas Móveis :computer:
-- **Docente:** Luiz Carlos Querino Filho :man_teacher:
+- **Disciplina:** Estrutura de Dados :computer:
+- **Docente:** Gustavo Marttos Caceres Pereira :man_teacher:
